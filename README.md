@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+⚡ Fun fact: One lemon contains as much vitamin C as one lemon.
 <!--
 **urasakikeisuke/urasakikeisuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
