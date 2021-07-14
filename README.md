@@ -3,4 +3,7 @@
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=urasakikeisuke)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=urasakikeisuke&count_private=true&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urasakikeisuke">
+</div>
