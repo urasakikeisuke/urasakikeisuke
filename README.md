@@ -4,6 +4,6 @@
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=urasakikeisuke&count_private=true&hide=stars&show_icons=true&theme=buefy">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urasakikeisuke&langs_count=10&layout=compact&theme=buefy">
+<img src="https://github-readme-stats.vercel.app/api?username=urasakikeisuke&count_private=true&hide=stars&show_icons=true&theme=buefy&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urasakikeisuke&langs_count=10&layout=compact&theme=buefy&hide_border=true">
 </div>
