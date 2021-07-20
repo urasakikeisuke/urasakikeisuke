@@ -5,6 +5,6 @@
 
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=urasakikeisuke&count_private=true&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urasakikeisuke">
+<img src="https://github-readme-stats.vercel.app/api?username=urasakikeisuke&count_private=true&show_icons=true&theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urasakikeisuke&langs_count=10&theme=github_dark">
 </div>
